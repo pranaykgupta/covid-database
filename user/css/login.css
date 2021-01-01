@@ -1,0 +1,31 @@
+body {
+    height: 100%;
+    margin: 0;
+    background-image: url(../bg.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+html {
+    height: 100%;
+    margin: 0;
+}
+
+.in {
+    background-color: rgba(0,0,0,0.9);
+    color: #fff;
+    padding: 30px;
+    width: 500px;
+    margin: 200px auto;
+}
+
+.bb {
+    background-color: #ffffff;
+    text-transform: uppercase;
+}
+
+.ipc {
+    border-radius: 0;
+    outline: none;
+    border-color: #fff;
+}
